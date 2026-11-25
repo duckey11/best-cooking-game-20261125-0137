@@ -14,6 +14,13 @@ kehabisan sabar, sebelum shift 3 menit berakhir atau 3 hati habis.
 - Sajian tepat waktu dapat skor + tip sesuai sisa kesabaran; sajian
   beruntun menaikkan combo. Order gagal mengurangi 1 hati.
 
+## Tips
+
+- Sajikan selagi kesabaran pelanggan masih tinggi untuk tip terbesar,
+  dan jaga combo tetap hidup dengan sajian beruntun tanpa gagal.
+- Jangan tinggalkan bahan di panggangan, penggorengan, atau panci:
+  angkat tepat waktu sebelum gosong dan harus dibuang.
+
 ## Resep
 
 1. **Burger Klasik**: roti bun + patty panggang (6 dtk) + selada potong
